@@ -1,3 +1,6 @@
+![alt text](https://github.com/ImamRamlan/Aplikasi-Pemesanan-Bunga/blob/main/public/for_readme/bg-pelanggan.png?raw=true)
+![alt text](https://github.com/ImamRamlan/Aplikasi-Pemesanan-Bunga/blob/main/public/for_readme/bg-admin.png?raw=true)
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
